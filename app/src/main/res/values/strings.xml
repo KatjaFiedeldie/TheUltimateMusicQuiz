@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Ultimate Music Quiz</string>
+    <string name="q1">1. Who is NOT a member of the 27 club?</string>
+    <string name="q2">2. Finish these lyrics: Making my way downtown, walking fast, faces pass and I am...</string>
+    <string name="q3">3. Which are Beatles songs?</string>
+    <string name="q4">4. Who was the leadsinger of the Doors?</string>
+    <string name="q5">5. Who wrote the famous Swan Lake composition?</string>
+</resources>
